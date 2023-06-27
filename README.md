@@ -11,5 +11,5 @@ pip install tensorflow==2.10.0
 
 ## Predict
 ```
-python predict.py ./data/test_pseudoknotted.csv ./weights/ ./rea_rmsd_predictions_pseudoknotted.csv
+python predict.py ./dataset/test_pseudoknotted.csv ./weights/ ./rea_rmsd_predictions_pseudoknotted.csv
 ```
